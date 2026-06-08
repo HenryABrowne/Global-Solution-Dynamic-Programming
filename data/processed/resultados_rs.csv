@@ -1,12 +1,12 @@
 algoritmo,cenario,n_vertices,tempo_ms,memoria_mb,operacoes,custo_solucao,caminho
-Força Bruta,Enchentes no Rio Grande do Sul,5,2.9294,0.00148,20,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,5,0.0333,0.000992,6,2.7,4310000 -> 4310001 -> 4310099
-Força Bruta,Enchentes no Rio Grande do Sul,8,0.1166,0.002045,122,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,8,0.0247,0.001755,14,2.7,4310000 -> 4310001 -> 4310099
-Força Bruta,Enchentes no Rio Grande do Sul,10,0.4381,0.00676,334,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,10,0.0405,0.002487,17,2.7,4310000 -> 4310001 -> 4310099
-Força Bruta,Enchentes no Rio Grande do Sul,12,1.0528,0.013313,742,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,12,0.0419,0.003227,22,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,20,0.0418,0.0028,40,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,50,0.0958,0.008499,108,2.7,4310000 -> 4310001 -> 4310099
-Dijkstra,Enchentes no Rio Grande do Sul,100,0.1947,0.014671,221,2.7,4310000 -> 4310001 -> 4310099
+Força Bruta,Enchentes no Rio Grande do Sul,5,1.208,0.00148,20,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,5,0.0245,0.000992,6,2.7,4310000 -> 4310001 -> 4310099
+Força Bruta,Enchentes no Rio Grande do Sul,8,0.0951,0.002045,122,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,8,0.0187,0.001755,14,2.7,4310000 -> 4310001 -> 4310099
+Força Bruta,Enchentes no Rio Grande do Sul,10,0.3557,0.00676,334,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,10,0.0326,0.002487,17,2.7,4310000 -> 4310001 -> 4310099
+Força Bruta,Enchentes no Rio Grande do Sul,12,1.1301,0.013313,742,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,12,0.044,0.003227,22,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,20,0.0386,0.0028,40,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,50,0.0861,0.008499,108,2.7,4310000 -> 4310001 -> 4310099
+Dijkstra,Enchentes no Rio Grande do Sul,100,0.1617,0.014671,221,2.7,4310000 -> 4310001 -> 4310099

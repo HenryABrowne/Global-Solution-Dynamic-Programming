@@ -6,3 +6,4 @@ networkx
 pytest
 jupyter
 ipykernel
+reportlab
