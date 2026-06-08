@@ -1,0 +1,504 @@
+{
+    "origem": 1700000,
+    "arestas_mst": [
+        {
+            "origem": 1700000,
+            "destino": 1700001,
+            "peso": 1.0
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700005,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700010,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700015,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700015,
+            "destino": 1700014,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700020,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700025,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700030,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700030,
+            "destino": 1700031,
+            "peso": 1.0
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700035,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700040,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700045,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700045,
+            "destino": 1700099,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700032,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700064,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700096,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700064,
+            "destino": 1700063,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700013,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700077,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700045,
+            "destino": 1700044,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700026,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700058,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700090,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700090,
+            "destino": 1700091,
+            "peso": 1.0
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700050,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700055,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700060,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700060,
+            "destino": 1700061,
+            "peso": 1.0
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700065,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700070,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700075,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700075,
+            "destino": 1700074,
+            "peso": 1.4
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700080,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700085,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700095,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700055,
+            "destino": 1700056,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700085,
+            "destino": 1700086,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700007,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700039,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700071,
+            "peso": 1.5
+        },
+        {
+            "origem": 1700071,
+            "destino": 1700072,
+            "peso": 1.1
+        },
+        {
+            "origem": 1700007,
+            "destino": 1700006,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700096,
+            "destino": 1700097,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700052,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700052,
+            "destino": 1700053,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700084,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700077,
+            "destino": 1700078,
+            "peso": 1.7
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700033,
+            "peso": 1.7
+        },
+        {
+            "origem": 1700033,
+            "destino": 1700034,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700058,
+            "destino": 1700059,
+            "peso": 1.8
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700046,
+            "peso": 1.8
+        },
+        {
+            "origem": 1700010,
+            "destino": 1700009,
+            "peso": 1.9
+        },
+        {
+            "origem": 1700070,
+            "destino": 1700069,
+            "peso": 1.9
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700027,
+            "peso": 1.9
+        },
+        {
+            "origem": 1700020,
+            "destino": 1700021,
+            "peso": 2.0
+        },
+        {
+            "origem": 1700025,
+            "destino": 1700028,
+            "peso": 2.0
+        },
+        {
+            "origem": 1700028,
+            "destino": 1700029,
+            "peso": 1.8
+        },
+        {
+            "origem": 1700050,
+            "destino": 1700051,
+            "peso": 2.0
+        },
+        {
+            "origem": 1700080,
+            "destino": 1700081,
+            "peso": 2.0
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700008,
+            "peso": 2.0
+        },
+        {
+            "origem": 1700001,
+            "destino": 1700002,
+            "peso": 2.1
+        },
+        {
+            "origem": 1700061,
+            "destino": 1700062,
+            "peso": 2.1
+        },
+        {
+            "origem": 1700091,
+            "destino": 1700092,
+            "peso": 2.1
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700011,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700011,
+            "destino": 1700012,
+            "peso": 1.1
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700016,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700036,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700036,
+            "destino": 1700037,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700041,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700041,
+            "destino": 1700042,
+            "peso": 1.1
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700066,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700066,
+            "destino": 1700067,
+            "peso": 1.6
+        },
+        {
+            "origem": 1700000,
+            "destino": 1700076,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700007,
+            "destino": 1700004,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700004,
+            "destino": 1700003,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700042,
+            "destino": 1700043,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700072,
+            "destino": 1700073,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700053,
+            "destino": 1700054,
+            "peso": 2.3
+        },
+        {
+            "origem": 1700084,
+            "destino": 1700083,
+            "peso": 2.3
+        },
+        {
+            "origem": 1700083,
+            "destino": 1700082,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700082,
+            "destino": 1700079,
+            "peso": 2.2
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700047,
+            "peso": 2.3
+        },
+        {
+            "origem": 1700047,
+            "destino": 1700048,
+            "peso": 1.7
+        },
+        {
+            "origem": 1700095,
+            "destino": 1700094,
+            "peso": 2.4
+        },
+        {
+            "origem": 1700094,
+            "destino": 1700093,
+            "peso": 1.3
+        },
+        {
+            "origem": 1700085,
+            "destino": 1700088,
+            "peso": 2.5
+        },
+        {
+            "origem": 1700088,
+            "destino": 1700089,
+            "peso": 1.8
+        },
+        {
+            "origem": 1700056,
+            "destino": 1700057,
+            "peso": 2.6
+        },
+        {
+            "origem": 1700086,
+            "destino": 1700087,
+            "peso": 2.6
+        },
+        {
+            "origem": 1700099,
+            "destino": 1700022,
+            "peso": 2.6
+        },
+        {
+            "origem": 1700022,
+            "destino": 1700023,
+            "peso": 1.2
+        },
+        {
+            "origem": 1700023,
+            "destino": 1700024,
+            "peso": 2.3
+        },
+        {
+            "origem": 1700037,
+            "destino": 1700038,
+            "peso": 2.7
+        },
+        {
+            "origem": 1700067,
+            "destino": 1700068,
+            "peso": 2.7
+        },
+        {
+            "origem": 1700097,
+            "destino": 1700098,
+            "peso": 2.7
+        },
+        {
+            "origem": 1700016,
+            "destino": 1700019,
+            "peso": 2.8
+        },
+        {
+            "origem": 1700019,
+            "destino": 1700018,
+            "peso": 2.8
+        },
+        {
+            "origem": 1700018,
+            "destino": 1700017,
+            "peso": 1.7
+        },
+        {
+            "origem": 1700048,
+            "destino": 1700049,
+            "peso": 2.8
+        }
+    ],
+    "custo_total": 172.5,
+    "vertices_visitados": 100,
+    "insercoes_heap": 326,
+    "arestas_avaliadas": 160
+}

@@ -1,0 +1,12 @@
+{
+    "origem": 1700000,
+    "destino": 1700095,
+    "caminho": [
+        1700000,
+        1700095
+    ],
+    "custo_total": 1.5,
+    "vertices_visitados": 21,
+    "arestas_relaxadas": 168,
+    "insercoes_heap": 111
+}
